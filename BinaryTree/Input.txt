@@ -1,0 +1,4 @@
+HE133934|Nguyen Van B|2
+HE133345|Nguyen Van A|3
+HE131467|Nguyen Van C|3
+HE160001|Le Cao Khanh|4

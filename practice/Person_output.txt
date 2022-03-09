@@ -1,0 +1,11 @@
+nam|20
+toan|21
+dat|24
+duong|25
+chieu|24
+thanh|25
+dao|19
+manh|20
+hai|27
+tien|23
+luong|25
